@@ -1,0 +1,56 @@
+{
+  "total_row_count": 11,
+  "timeframe": [1608163645, 1608165440],
+  "data": [
+    {
+      "value": 6.068530207394047,
+      "date": "7:25",
+      "concurrent_viewers": 50
+    },
+    {
+      "value": 7.68530207394047,
+      "date": "8:25",
+      "concurrent_viewers": 33
+    },
+    {
+      "value": 6.8530207394047,
+      "date": "9:25",
+      "concurrent_viewers": 45
+    },
+    {
+      "value": 10.068530207394047,
+      "date": "10:25",
+      "concurrent_viewers": 43
+    },
+    {
+      "value": 16.068530207394047,
+      "date": "11:25",
+      "concurrent_viewers": 59
+    },
+    {
+      "value": 66.8530207394047,
+      "date": "12:25",
+      "concurrent_viewers": 40
+    },
+    {
+      "value": 100.068530207394047,
+      "date": "1:05",
+      "concurrent_viewers": 40
+    },
+    {
+      "value": 70.068530207394047,
+      "date": "1:25",
+      "concurrent_viewers": 7
+    },
+    {
+      "value": 16.068530207394047,
+      "date": "1:45",
+      "concurrent_viewers": 3
+    },
+    {
+      "value": 11.068530207394047,
+      "date": "2:25",
+      "concurrent_viewers": 4
+    }
+  ]
+}

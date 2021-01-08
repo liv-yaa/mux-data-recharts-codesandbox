@@ -1,0 +1,62 @@
+{
+  "total_row_count": 8,
+  "timeframe": [1608930026, 1609016426],
+  "data": [
+    {
+      "views": 158,
+      "value": 15.822784810126583,
+      "total_watch_time": 194408859,
+      "negative_impact": 4,
+      "field": "g-cdn"
+    },
+    {
+      "views": 6,
+      "value": 0,
+      "total_watch_time": 4023694,
+      "negative_impact": 6,
+      "field": "f-cdn"
+    },
+    {
+      "views": 2132,
+      "value": 2.626641651031895,
+      "total_watch_time": 1854906513,
+      "negative_impact": 3,
+      "field": "e-cdn"
+    },
+    {
+      "views": 19149,
+      "value": 1.3107734085330827,
+      "total_watch_time": 14938669907,
+      "negative_impact": 1,
+      "field": "d-cdn"
+    },
+    {
+      "views": 41532,
+      "value": 1.0907252239237214,
+      "total_watch_time": 29409582213,
+      "negative_impact": 2,
+      "field": "c-cdn"
+    },
+    {
+      "views": 126,
+      "value": 3.968253968253968,
+      "total_watch_time": 58743512,
+      "negative_impact": 5,
+      "field": "b-cdn"
+    },
+    {
+      "views": 364,
+      "value": 0.8241758241758242,
+      "total_watch_time": 752167593,
+      "negative_impact": 7,
+      "field": "a-cdn"
+    },
+    {
+      "views": 1807923,
+      "value": 0.9870442491190167,
+      "total_watch_time": 198817399221,
+      "negative_impact": 8,
+      "field": "sad-bad-cdn"
+    }
+  ]
+}
